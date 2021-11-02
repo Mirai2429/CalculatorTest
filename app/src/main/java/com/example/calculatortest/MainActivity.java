@@ -192,9 +192,4 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-// hfveigfhiawuerhgiuwaerghiuwraghviurwebhvierbguvedfoiwejre weitf43jt93q84
-//efjh4iuhrfti34uhf
-
-//ewwefrtwergt3erfnwegfnbuir3nbtguruwefdgfrkjeghniteniernbgjhyuj
-
-//jefniewufweuhfgi4htgrghiuh135988872658468u
+//adhfbehbferft
